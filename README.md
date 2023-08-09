@@ -8,4 +8,4 @@ If possible please look at my submission in the following order:
 
 2. Classification Report.pdf + Credit_score_Classification_part1_submissionsubmission.ipynb + Credit_score_Classification_part2_submissionsubmission.ipynb
 
-3. azurepart3.ipynb
+3. Please check for the latest model/endpoints when considering my submission for part 3.
