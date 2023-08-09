@@ -1,8 +1,6 @@
 import json, os, joblib
 import numpy as np
 
-# We will assume the user inputs data as a dictionary. where dictionary['data] is a dictionary object created by using the pd.to_dict() function on a dataframe.
-
 
 def init():
     # Loads the model
