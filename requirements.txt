@@ -1,0 +1,9 @@
+azureml.core
+ipykernel
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+xgboost
+azureml-defaults
